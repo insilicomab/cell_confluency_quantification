@@ -5,7 +5,7 @@ Created on Mon Dec  7 14:56:42 2020
 @author: mi-nakada
 """
 
-#データファイルの入力
+# データファイルの入力
 data = 'image.tif'
 
 # ライブラリ
@@ -18,7 +18,7 @@ img = cv2.imread(data)
 # グレースケール化
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-#Cannyエッジ検出
+# Cannyエッジ検出
 img_edges = cv2.Canny(img_gray,190,200)
 
 # 大津の二値化
