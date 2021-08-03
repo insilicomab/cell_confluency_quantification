@@ -14,3 +14,9 @@ Scripts to quantify cell confluency
 - ノイズ除去<br>
 Cannyエッジ検出<br>
 モルフォロジー変換（膨張）
+
+## CellConfluency_3
+- ノイズ除去<br>
+Cannyエッジ検出<br>
+モルフォロジー変換（膨張）<br>
+穴埋め
