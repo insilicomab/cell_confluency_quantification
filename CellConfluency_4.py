@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Dec  7 14:56:42 2020
-
-@author: mi-nakada
 """
 
 # データファイルの入力
