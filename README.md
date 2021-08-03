@@ -24,6 +24,4 @@ Scripts to quantify cell confluency
 ## CellConfluency_5
 - ガンマ補正<br>
 - ノイズ除去<br>
-- Cannyエッジ検出<br>
 - モルフォロジー変換（膨張）<br>
-- 穴埋め
